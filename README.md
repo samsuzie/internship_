@@ -13,3 +13,7 @@ A Python prototype that converts photos or text descriptions into simple 3D mode
 
 1. Clone this repository
 2. Create a virtual environment:
+
+3. Run the code
+- python main.py --text "A star" --output output/star_model
+- python main.py --text "A 6 pointed star" --output output/star_model
